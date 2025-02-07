@@ -7,7 +7,7 @@
 - 🛠️ Building cool projects, from **cinema systems** to **alert systems**!
 - 📚 Currently learning **Laravel, Docker, GitHub Actions, and advanced database design**.
 - 🎯 Focused on **clean code, performance, and security**.
-- 🎃 I also create fun projects for my girlfriend, like **a Halloween-themed calendar & interactive poems**! 💖
+- 🎃 I also create fun projects for my girlfriend, like **a themed calendar & interactive poems & doodle canvas**! 💖
 
 ## 🔧 Technologies & Tools
 
