@@ -5,8 +5,9 @@
 - 🔥 Passionate about web development, backend architecture & software engineering.
 - 💻 Primarily working with **PHP, C#, Vue 3, .NET 8, and Tailwind CSS**.
 - 🛠️ Building cool projects, from **cinema systems** to **alert systems**!
-- 📚 Currently learning **Docker, GitHub Actions, and advanced database design**.
+- 📚 Currently learning **Laravel, Docker, GitHub Actions, and advanced database design**.
 - 🎯 Focused on **clean code, performance, and security**.
+- 🎃 I also create fun projects for my girlfriend, like **a Halloween-themed calendar & interactive poems**! 💖
 
 ## 🔧 Technologies & Tools
 
@@ -18,6 +19,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📈 GitHub Stats
 
