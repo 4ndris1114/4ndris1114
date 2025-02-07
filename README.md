@@ -25,7 +25,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=4ndris1114&show_icons=true&theme=tokyonight)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4ndris1114&layout=compact&theme=tokyonight)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.4ndris1114&style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=4ndris1114&theme=tokyonight)
 
 ## ✨ Fun Facts
