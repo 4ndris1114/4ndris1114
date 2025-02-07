@@ -37,7 +37,7 @@
 ## 📫 Get in Touch
 
 - 📧 Email: andras.varsanyi1411@gmail.com(mailto:andras.varsanyi1411@gmail.com)
-- 💼 LinkedIn: =([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/andras-varsanyi/))
+- 💼 LinkedIn: [https://www.linkedin.com/in/andras-varsanyi/](https://www.linkedin.com/in/andras-varsanyi/)
 - 🌎 Portfolio: Coming soon
 
 ---
