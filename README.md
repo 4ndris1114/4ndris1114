@@ -4,10 +4,7 @@
 
 - 🔥 Passionate about web development, backend architecture & software engineering.
 - 💻 Primarily working with **PHP, C#, Vue 3, .NET 8, and Tailwind CSS**.
-- 🛠️ Building cool projects, from **cinema systems** to **alert systems**!
-- 📚 Currently learning **Laravel, Docker, GitHub Actions, and advanced database design**.
 - 🎯 Focused on **clean code, performance, and security**.
-- 🎃 I also create fun projects for my girlfriend, like **a themed calendar & interactive poems & doodle canvas**! 💖
 
 ## 🔧 Technologies & Tools
 
@@ -36,7 +33,6 @@
 
 ## 📫 Get in Touch
 
-- 📧 Email: (mailto:andras.varsanyi1411@gmail.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/andras-varsanyi/](https://www.linkedin.com/in/andras-varsanyi/)
 - 🌎 Portfolio: Coming soon
 
